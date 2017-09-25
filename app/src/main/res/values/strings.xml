@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Hungarian Quiz</string>
+
+    <string name="OutButton1">Restart</string>
+    <string name="OutButton2">Finish</string>
+
+    <string name="Q1Quote1">Q1: What is the hungarian for: \nFriday?</string>
+    <string name="Q1Day1">Csütörtök</string>
+    <string name="Q1Day2">Szombat</string>
+    <string name="Q1Day3">Hétfő</string>
+    <string name="Q1Day4">Péntek</string>
+    <string name="Q1Day5">Kedd</string>
+    <string name="Q1Day6">Szerda</string>
+    <string name="Q1Day7">Vasárnap</string>
+
+    <string name="Q2Quote1">Q2: Locate the four animals\nthat are shown in the pictures.</string>
+    <string name="Q2Animal1">Nyúl</string>
+    <string name="Q2Animal2">Teknős</string>
+    <string name="Q2Animal3">Macska</string>
+    <string name="Q2Animal4">Kutya</string>
+    <string name="Q2Animal5">Pingvin</string>
+    <string name="Q2Animal6">Sas</string>
+    <string name="Q2Animal7">Zsiráf</string>
+    <string name="Q2Animal8">Majom</string>
+
+    <string name="Q3Quote1">Q3: Write the name in English?</string>
+    <string name="Q3Place1">Étterem</string>
+    <string name="inputText">Input Answer</string>
+    <string name="Q3Text">restaurant</string>
+
+    <string name="Q4Quote1">Describe where these things are in the room?</string>
+    <string name="Q4Ques1">Q4: The carpet is _____ the table</string>
+    <string name="Q4Ques2">Q5: The vase is ______ the TV</string>
+    <string name="Q4Ans1">Alatta</string>
+    <string name="Q4Ans2">Főlőtte</string>
+    <string name="Q4Ans3">Mellett</string>
+    <string name="Q4Ans4">Között</string>
+
+    <string name="EndTest0">Thank you for taking the Hungarian quiz.</string>
+    <string name="EndTest1">Perfect score!! You are a natural!</string>
+    <string name="EndTest2">Good effort! You did really well.</string>
+    <string name="EndTest3">Better luck next time. With a bit of practice, it will become better!</string>
+    <string name="EndTestCountA">You scored </string>
+    <string name="EndTestCountB">out of 5.</string>
+</resources>

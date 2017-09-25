@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#278e0f</color>
+    <color name="colorPrimaryDark">#c90606</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="ScrollColor">#fdffc6</color>
+    <color name="TitleText">#000000</color>
+    <color name="QuestionText">#104a96</color>
+    <color name="BGText">#ffffff</color>
+</resources>
