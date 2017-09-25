@@ -7,6 +7,7 @@
     tools:context="com.example.android.quizapp.MainActivity">
 
     <ImageView
+        tools:ignore="contentDescription"
         style="@style/TitlePictureStyle"
         android:src="@drawable/budapest"/>
     <LinearLayout
@@ -71,15 +72,19 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent">
                     <ImageView
+                        tools:ignore="contentDescription"
                         style="@style/CheckBoxStyle"
                         android:src="@drawable/dog"/>
                     <ImageView
+                        tools:ignore="contentDescription"
                         style="@style/CheckBoxStyle"
                         android:src="@drawable/monkey"/>
                     <ImageView
+                        tools:ignore="contentDescription"
                         style="@style/CheckBoxStyle"
                         android:src="@drawable/rabbit"/>
                     <ImageView
+                        tools:ignore="contentDescription"
                         style="@style/CheckBoxStyle"
                         android:src="@drawable/turtle"/>
                 </LinearLayout>
@@ -139,6 +144,7 @@
                 <View
                     style="@style/ViewStyle"/>
                 <ImageView
+                    tools:ignore="contentDescription"
                     style="@style/PictureStyle"
                     android:src="@drawable/roompic"/>
                 <TextView
